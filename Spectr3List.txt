@@ -1,0 +1,7 @@
+title:Spectr3's General Wish List
+
+description:A wishlist of crafted weapon roles and general weapon rolls. 
+
+//Fortissimo-11
+//notes:Adagio allows 1 shot to the body in PvP at tier 7 res and below
+dimwishlist:item=2821430069&perks=1840239774,3142289711,3108830275,3673922083

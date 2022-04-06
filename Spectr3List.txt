@@ -48,4 +48,5 @@ dimwishlist:item=999767358&perks=839105230,689005463,848860060,2402480669
 //notes:Adagio allows 1 shot to the body in PvP at tier 7 res and below.
 dimwishlist:item=2821430069&perks=1840239774,3142289711,3108830275,3673922083
 
-//
+//SYNCOPACTION-53
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1866048759,2846385770

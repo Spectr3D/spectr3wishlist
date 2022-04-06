@@ -43,6 +43,7 @@ dimwishlist:item=999767358&perks=839105230,689005463,848860060,2002547233
 dimwishlist:item=999767358&perks=839105230,689005463,1354429876,2896038713
 dimwishlist:item=999767358&perks=839105230,689005463,848860060,2896038713
 dimwishlist:item=999767358&perks=839105230,689005463,848860060,2402480669
+//End of Vow Raid Weapons
 
 //Fortissimo-11
 //notes:Adagio allows 1 shot to the body in PvP at tier 7 res and below.
